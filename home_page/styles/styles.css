@@ -28,7 +28,7 @@ header {
 nav {
     background: #cfd8f3;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     border: solid 3px #888681;
     border-radius: 5px;
     text-align: center;
